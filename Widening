@@ -1,0 +1,28 @@
+class  Widening
+{ 
+	public static void main(String[] args) 
+	{	 
+		double d = 12345.87654321;
+		System.out.println(d);
+		
+		byte b = d;
+		System.out.println(b); 
+		
+		short s = d;
+		System.out.println(s); 
+		
+		int i = d;
+		System.out.println(i);
+		 
+		long l = d;
+		System.out.println(l);
+		 
+		float f = d;
+		System.out.println(f);
+		
+		 
+		
+		
+		
+	}
+}
