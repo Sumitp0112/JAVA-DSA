@@ -1,0 +1,21 @@
+class Introduction 
+{
+	public static void main(String[] args) 
+	{
+		String name = "Sumit Patil";
+		byte age = 22;
+		long phno = 9096579523l;
+		float salary = 50000.50f;
+		char grade = 'z';
+		String place = "Parola";
+		String job = "Software Engineer";
+		
+		System.out.println(name);
+		System.out.println(age);
+		System.out.println(phno);
+		System.out.println(salary);
+		System.out.println(grade);
+		System.out.println(place);
+		System.out.println(job);
+	}
+}
